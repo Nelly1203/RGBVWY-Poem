@@ -1,8 +1,10 @@
-RGB Colors
+RGBVY Colors
 
 Red 
 Green
 Blue
+Violet 
+Yellow
 
 They are the colors in the
-word RGB!
+word RGBVY!
