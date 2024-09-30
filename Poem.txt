@@ -1,0 +1,8 @@
+RGB Colors
+
+Red 
+Green
+Blue
+
+They are the colors in the
+word RGB!
