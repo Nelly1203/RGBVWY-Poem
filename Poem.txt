@@ -6,5 +6,11 @@ Blue
 Violet 
 Yellow
 
+ADDMORE COLORS
+WHITE 
+MAGENTA
+OPAL
+
+
 They are the colors in the
 word RGBVY!
